@@ -1,0 +1,46 @@
+body{
+	background-color:#eeeeee;
+}
+.container
+{
+background-color: white;
+height: 500px;
+width: 480px;
+}
+input[type=text]
+{
+	width: 440px;
+	height: 40px;
+	margin-top: 1px;
+	/*border-radius: 5px;*/
+	border:1px solid #DAE0E2;
+}
+input[type=password]
+{
+	width: 440px;
+	height: 40px;
+	margin-top: 5px;
+	/*border-radius: 5px;*/
+	border:1px solid #DAE0E2;
+}
+.on_btn{
+	border-radius: 70px;
+	background-color: white;
+	font-family: "Apple Gothic", "Malgun Gothic", "dotum", "Arial", "sans-serif";
+	color: #2c86dc;
+	border:1px solid #DAE0E2;
+}
+input[type=checkbox]
+{
+	margin-top: 80px;
+}
+.login
+{
+	width: 443px;
+}
+input[type=email]:hover{
+	background-color: #f9fcff;
+}
+.lable2{
+	margin-top: 5px;
+}
